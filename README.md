@@ -30,23 +30,17 @@ https://ellisonlab.shinyapps.io/dct_shinycell/
 **How to use the snRNA data analysis scripts**
 1. Pre-process the aligned data and aggregate three control samples or all six samples (three control and three experimental. <br/>
 Pre-process_Step1.R <br/>
-Pre-process_Step2_CONTROL.R <br/>
-Pre-process_Step3_ALL.R <br/>
+Pre-process_Step2.R <br/>
 
 3. Analyze the aggreaged and annotated dataset <br/>
 Analysis_1_AddModuleScore.R <br/>
-Analysis_2_Subpopulation.R <br/>
-Analysis_3_Find_DEGs.R <br/>
-Analysis_4_Pseudotime.R <br/>
-Analysis_5_Pathway_analysis.R <br/>
+Analysis_2__Find_DEGs.R <br/>
+Analysis_3_Pathway_analysis.R <br/>
 
 4. Make figures for the manuscript. <br/>
 Fig.3.R <br/>
 Fig.4.R <br/>
 Fig.5.R <br/>
-Fig.6.R <br/>
-Fig.7.R <br/>
-Fig.8.R <br/>
-Fig.9.R <br/>
+
 
 
